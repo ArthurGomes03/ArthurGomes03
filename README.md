@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Arthur Gomes
+- 👋 Hi, I’m Arthur
 - 👀 I’m interested in learn and study Python, Dev, Cloud and others
-- 🌱 I’m currently learning Python, programming logic and others.
+- 🌱 I’m currently learning Python, programming logic, devweb and others.
 - 📫 How to reach me, contact by e-mail arhurcgomes.eng@gmail.com
 
 <!---
